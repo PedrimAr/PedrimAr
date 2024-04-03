@@ -2,7 +2,7 @@
 
 ###
 
-<h3 align="center">Atualmente curso informática 🖥️ no CEFET-RJ e faço estágio no Departamento de Informática 👨‍💻</h3>
+<h3 align="center">Atualmente curso Ciencia da Computação 🖥️ na UFF-Praia Vermelha, cursei anteriormente Informática no CEFET-Maracanã e fiz estágio no Departamento de Informática 👨‍💻</h3>
 
 ###
 
