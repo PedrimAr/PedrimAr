@@ -6,7 +6,7 @@
 
 ###
 
-<h3 align="left">sytem.out.println("Linguagens e Tecnologias as quais possuo alguma experiência: ");</h3>
+<h3 align="left">sytem.out.println("Linguagens e ferramentas as quais possuo alguma experiência: ");</h3>
 
 ###
 
@@ -16,8 +16,8 @@
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/c/c-original.svg" height="40" width="52" alt="c logo"  />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" height="40" width="52" alt="html5 logo"  />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" height="40" width="52" alt="css3 logo"  />
-  <img src="https://github.com/devicons/devicon/blob/v2.16.0/icons/docker/docker-original-wordmark.svg" height="40" width="52" alt="docker logo"  />
-  <img src="https://github.com/devicons/devicon/blob/v2.16.0/icons/eclipse/eclipse-original-wordmark.svg" height="40" width="52" alt="eclipse logo"  />
+  <img src="https://github.com/devicons/devicon/blob/v2.16.0/icons/docker/docker-original.svg" height="40" width="52" alt="docker logo"  />
+  <img src="https://github.com/devicons/devicon/blob/v2.16.0/icons/eclipse/eclipse-original.svg" height="40" width="52" alt="eclipse logo"  />
   <img src="https://github.com/devicons/devicon/blob/v2.16.0/icons/pycharm/pycharm-original.svg" height="40" width="52" alt="pycharm logo" />
   <img src="https://github.com/devicons/devicon/blob/v2.16.0/icons/vscode/vscode-original.svg" height="40" width="52" alt="vscode logo" />
   <img src="https://github.com/devicons/devicon/blob/v2.16.0/icons/figma/figma-original.svg" height="40" width="52" alt="figma logo" />
