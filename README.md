@@ -2,11 +2,11 @@
 
 ###
 
-<h3 align="center">Atualmente curso Ciencia da Computação 🖥️ na UFF-Praia Vermelha, cursei anteriormente Informática no CEFET-Maracanã e fiz estágio no Departamento de Informática 👨‍💻</h3>
+<h3 align="center">Atualmente curso Ciencia da Computação 🖥️ na UFF-Praia Vermelha, cursei anteriormente Informática no CEFET-Maracanã e fiz estágio no Departamento de Informática da instituição 👨‍💻</h3>
 
 ###
 
-<h3 align="left">print("Linguagens as quais possuo conhecimento: ");</h3>
+<h3 align="left">sytem.out.println("Linguagens as quais possuo conhecimento: ");</h3>
 
 ###
 
