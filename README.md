@@ -6,7 +6,7 @@
 
 ###
 
-<h3 align="left">sytem.out.println("Linguagens e ferramentas as quais possuo alguma experiência: ");</h3>
+<h3 align="left">system.out.println("Linguagens e ferramentas as quais possuo alguma experiência: ");</h3>
 
 ###
 
