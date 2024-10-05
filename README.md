@@ -30,7 +30,7 @@
 
 ###
 
-<p align="left">pedro_ar@id.uff.br</p>
+<p align="left">pedro.a.rangel.cc.05@gmail.com</p>
 
 ###
 
